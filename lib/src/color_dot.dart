@@ -16,7 +16,7 @@ class ColorDot extends StatelessWidget {
     double radius = this.radius ?? 8;
 
     return Padding(
-      padding: const EdgeInsets.all(8),
+      padding: const EdgeInsets.all(5),
       child: Container(
         height: radius,
         width: radius,
